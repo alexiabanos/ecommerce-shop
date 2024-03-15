@@ -1,4 +1,4 @@
-# Clothing Boutique Website
+# Ecommerce Clothing Boutique Store
 
 Welcome to the repository for an e-commerce clothing shop's website. This project showcases a modern and stylish website design tailored specifically for a Clothing Boutique business including both mobile and desktop views.
 
@@ -6,7 +6,7 @@ Welcome to the repository for an e-commerce clothing shop's website. This projec
 
 Visit a live client demo: [Clothing Boutique Store](https://clothingboutique.pages.dev/)
 
-![](https://github.com/alexiabanos/ecommerce-shop/blob/static/gif/demo.gif)
+![](https://github.com/alexiabanos/ecommerce-shop/blob/842d31497fd205452200b01b608403592280e7ad/build/static/gif/demo.gif)
 
 ## Features
 
